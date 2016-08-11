@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hipchat</string>
+    <string name="input_hit">say something</string>
+    <string name="results_no_rusult">No result</string>
+    <string name="results_parsing">PARSING</string>
+    <string name="check">check</string>
+    <string name="testMode">check emoticons matching https://www.hipchat.com/emoticons </string>
+    <string name="button_test_messages">test messages</string>
+</resources>
