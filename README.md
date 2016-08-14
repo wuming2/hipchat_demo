@@ -11,3 +11,5 @@ Library Used
 
 ![Image of screenshot]
 (https://github.com/wuming2/hipchat_demo/blob/master/image/Screenshot.png)
+
+download and try the app (https://github.com/wuming2/hipchat_demo/blob/master/app-debug.apk?raw=true)
