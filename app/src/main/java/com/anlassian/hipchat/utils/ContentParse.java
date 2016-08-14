@@ -70,6 +70,7 @@ public class ContentParse {
             });
         }
         linkChecked = true;
+        // multiple link support
         if (linkCount <= 0 && linkChecked) {
             listener.onResult(content, code);
         }

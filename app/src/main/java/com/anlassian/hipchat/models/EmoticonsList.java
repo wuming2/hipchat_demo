@@ -4,6 +4,8 @@ import java.util.ArrayList;
 
 /**
  * Created by wuming on 16/8/11.
+ * <p/>
+ * emoticons
  */
 public class EmoticonsList {
 
@@ -21,7 +23,7 @@ public class EmoticonsList {
 
         private String text;
         private String img;
-        
+
         public String getText() {
             return text;
         }

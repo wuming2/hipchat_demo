@@ -15,6 +15,8 @@ import okhttp3.Response;
 
 /**
  * Created by wuming on 16/8/11.
+ *
+ * link title get using okhttp
  */
 public class LinkParse {
 

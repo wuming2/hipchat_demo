@@ -5,6 +5,7 @@ import java.util.List;
 
 /**
  * Created by wuming on 16/8/11.
+ *
  */
 public class MessageContent {
 

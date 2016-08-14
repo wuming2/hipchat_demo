@@ -2,6 +2,7 @@ package com.anlassian.hipchat.models;
 
 /**
  * Created by wuming on 16/8/11.
+ *
  */
 public class URLContent {
 

@@ -32,10 +32,10 @@ public class MainActivity extends AppCompatActivity {
     // (https://www.hipchat.com/emoticons)
     boolean testMode = false;
 
-    //test code
+    // test code
     private String[] testMessages = {"@chris you around?"
             , "Good morning! (megusta) (coffee)"
-            ,"link test http://www.google.com"
+            , "link test http://www.google.com"
             , "Olympics are starting soon; http://www.nbcolympics.com"
             , "@bob @john (success) such a cool feature; https://twitter.com/jdorfman/status/430511497475670016"
             , "@xiaoyang @晓阳 中文还是要测试一下的"
@@ -48,7 +48,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         initView();
-        initTestViews();
     }
 
     private void initView() {
@@ -117,9 +116,5 @@ public class MainActivity extends AppCompatActivity {
                 });
             }
         }, testMode, parsingIndex);
-    }
-
-    private void initTestViews() {
-
     }
 }
